@@ -3,4 +3,3 @@ sapphire
 ruby
 opal
 emerald
-amber
