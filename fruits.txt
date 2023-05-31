@@ -6,3 +6,4 @@ cherry
 strawberry
 pineapple
 kiwi
+coconut
